@@ -305,11 +305,11 @@
         <mxCell id="r_i-e8gC37u0zmRBM3oG-94" value="    系统管理员 --&gt; 密码管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r_i-e8gC37u0zmRBM3oG-87" vertex="1">
           <mxGeometry y="182" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="h0dWwLkq26jvyiaWHYJK-41" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h0dWwLkq26jvyiaWHYJK-41" value="登录注册" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="560" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0dWwLkq26jvyiaWHYJK-42" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="270" width="210" height="112" as="geometry" />
+          <mxGeometry x="-650" y="250" width="210" height="112" as="geometry" />
         </mxCell>
         <mxCell id="h0dWwLkq26jvyiaWHYJK-43" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-890" y="560" width="110" height="50" as="geometry" />
