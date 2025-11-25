@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h0dWwLkq26jvyiaWHYJK-41" value="登录注册" style="html=1;whiteSpace=wrap;rotation=88;" vertex="1" parent="1">
+        <mxCell id="h0dWwLkq26jvyiaWHYJK-41" value="登录注册" style="html=1;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="560" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h0dWwLkq26jvyiaWHYJK-42" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="h0dWwLkq26jvyiaWHYJK-47" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-50" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h0dWwLkq26jvyiaWHYJK-48" value="┌────────────────────银行管理系统────────────────────┐&#xa;        │          │          │          │          │          │&#xa;┌───────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐&#xa;│   登录注册   │ │   客户管理   │ │   账户管理   │ │   交易管理   │ │   报表统计   │ │   系统设置   │&#xa;└──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="190" width="560" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
